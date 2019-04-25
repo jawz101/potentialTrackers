@@ -21,8 +21,8 @@ Take note of the link to the instructions to add their code libraries to an Andr
 Review the documentation on that page for keywords such as "build.gradle", "maven", "import" to find potential code signatures.
 
 *other tricks to find code library documenation and examples might be to
-  - search github for https://github.com/<company>
-  - https://bintray.com/<company>
+  - search github for https://github.com/ <company>
+  - https://bintray.com/ <company>
   - do a search on VirusTotal for any support/help/developer subdomains https://www.virustotal.com/#/domain/ and see if they reveal a support site containing information.
 
   - download a copy of [this hosts file](https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts) for any potential network signatures
