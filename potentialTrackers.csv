@@ -1,19 +1,18 @@
 Category,subcategory,company,website,country,code_sig,network_sig,documentation,inETIP
 ,,24/7 real media,,,,,,
 Advertising & Promotion,Mobile Marketing,360Dialog,360dialog.com,,,,https://developers.360dialog.io/mobile/android/sdk_setup.html?android,ETIP
-Advertising & Promotion,Mobile Marketing,Aarki,aarki.com,USA,com.aarki,,,
+Advertising & Promotion,Mobile Marketing,Aarki,aarki.com,USA,com.aarki,,,ETIP
 ,,ABTasty,abtasty.com,,com.abtasty,abtasty\.com,,ETIP
 Advertising & Promotion,Mobile Marketing,Accengage (an Urban Airship Company.  formerly Ad4Screen),accengage.com,,com.ad4screen.sdk,a4\.tl|accengage\.com|ad4screen\.com|ad4push\.com,,ETIP
 ,,AccountKit,accountkit.com,,com.facebook.accountkit,,,ETIP
 ,,Actv8,actv8me.com,,me.actv8,actv8technologies.com,,ETIP
 ,,Acuant,acuantcorp.com,,,,,ETIP
-,,Ad4Game,ad4game.com,Canada,,,http://developer.ad4game.com/index.php/Android,
-Advertising & Promotion,Mobile Marketing,AdAction Interactive,adaction.mobi,,,,,
-Advertising & Promotion,Mobile Marketing,AdAdapted,adadapted.com,,,,,
-Advertising & Promotion,Mobile Marketing,AdApptive,adapptive.eu,,,,,
-Advertising & Promotion,Native/Content Advertising,Adblade,adblade.com,USA,,,,
+,,Ad4Game,ad4game.com,Canada,,,http://developer.ad4game.com/index.php/Android,ETIP
+Advertising & Promotion,Mobile Marketing,AdAction Interactive,adaction.mobi,,,,x,
+Advertising & Promotion,Mobile Marketing,AdAdapted,adadapted.com,,,,https://dev.adadapted.com,ETIP
+Advertising & Promotion,Native/Content Advertising,Adblade,adblade.com,USA,,,x,
 ,,Adbrix,ad-brix.com,,com.igaworks,,,ETIP
-Advertising & Promotion,Mobile Marketing,AdBuddiz,publishers.adbuddiz.com,,,,,
+Advertising & Promotion,Mobile Marketing,AdBuddiz,publishers.adbuddiz.com,,,,,ETIP
 Advertising & Promotion,Mobile Marketing,Adcars,adcars.ma,,,,,
 ,,AdCash,adcash.com,Estonia,,,,
 Advertising & Promotion,Mobile Marketing,Adcenix,adcenix.com,,com.adcenix.,,,
