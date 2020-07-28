@@ -63,7 +63,7 @@ ETIP,,Adot,we-are-adot.com,,com.adotmob,,,,,
 ,,Adotomi,adotomi.com,USA,,,,,,
 ,Mobile Marketing,Adperio,adperio.com,,,,,,,
 ,,Adplace,adplace.com,Germany,,,,,,https://github.com/adplace
-,Mobile Marketing,adPoPcorn,adpopcorn.com,,,,,,,
+ETIP,Mobile Marketing,adPoPcorn,adpopcorn.com,,,,,,,
 ,,Ads Yolo,,,,,,,,
 ,,Adsense,,,,,,,,https://github.com/Adsense
 ,,Adsmovil,adsmovil.com,Latin America,,,,,,https://github.com/adsmovil
@@ -158,7 +158,7 @@ ETIP,Mobile Apps,Apteligent by VMWare (formerly crittercism),apteligent.com,,com
 ETIP,,Areametrics,areametrics.com,,com.areametrics.areametricssdk|com.areametrics.nosdkandroid,,,,,
 ,Mobile Apps,Aruba Networks,arubanetworks.com,,com.arubanetworks.meridian.,,,,,https://github.com/arubanetworks
 ,Mobile & Web Analytics,AskingPoint,askingpoint.com,,,,,https://bintray.com/askingpoint,,
-,Mobile & Web Analytics,AT INTERNET,atinternet.com,,com.atinternet,,,https://bintray.com/atinternet,https://dl.bintray.com/atinternet/maven/,
+ETIP,Mobile & Web Analytics,AT INTERNET,atinternet.com,,com.atinternet,,,https://bintray.com/atinternet,https://dl.bintray.com/atinternet/maven/,
 ETIP,,ATInternet,atinternet.com/en,,com.atinternet.,ati-host\.net,,,,https://github.com/atinternet
 ,Mobile Apps,Attendify,attendify.com,,com.attendify.android.app.,,,,,https://github.com/attendify
 ,Mobile Marketing,Attentive,attentivemobile.com,,,,,,,
@@ -189,7 +189,7 @@ ETIP,,BeaconsInSpace (Fysical),beaconsinspace.com,,com.beaconsinspace.android.be
 ETIP,Retail Proximity & IoT Marketing,Beaconstac,beaconstac.com,,,,,,,
 ,,Bee7,bee7.com,,com.bee7.sdk,,,,,https://github.com/bee7
 ETIP,,Beemray,beemray.com,,com.beemray.,,,,,
-,,Beintoo,beintoo.com,Italy,com.beintoo.beaudiencesdk,,,https://bintray.com/beintoo,,https://github.com/beintoo
+ETIP,,Beintoo,beintoo.com,Italy,com.beintoo.beaudiencesdk,,,https://bintray.com/beintoo,,https://github.com/beintoo
 ,Mobile Marketing,Bidsopt,bidsopt.com,,,,,,,https://github.com/bidsopt
 ,Native/Content Advertising,Bidtellect,bidtellect.com,,,,,,,https://github.com/bidtellect
 ,,Bitbar,,,,,,,,https://github.com/Bitbar
@@ -263,7 +263,7 @@ ETIP,,Cloudmobi,cloudmobi.net,,com.cloudtech,,,,,
 ,Mobile Marketing,CLX,clxcommunications.com,,,,,,,https://github.com/clxcommunications
 ETIP,,cocos2dx,cocos2d-x.org/sdkbox,,org.cocos2dx,,,,,
 ETIP,,Colocator,developers.colocator.net,,net.crowdconnected.androidcolocator,,,,,
-,Customer Data Platform,CommandersAct,commandersact.com,,com.tagcommander,,,,,
+ETIP,Customer Data Platform,CommandersAct,commandersact.com,,com.tagcommander,,,,,
 ,Mobile & Web Analytics,CommuniGator (formerly Wow Analytics),communigator.co.uk,,,,,,,https://github.com/communigator
 ETIP,Audience/Marketing Data & Data Enhancement,Comscore,comscore.com,,com.comscore,,,,,
 ,,Comverse,comverse.com,USA,,,,,,https://github.com/comverse
@@ -523,7 +523,7 @@ ETIP,,kidoz,kidoz.net/kidoz-sdk,,com.kidoz.sdk,,,,,
 ,Mobile Marketing,Kiip,kiip.me,,me.kiip.sdk,,,https://bintray.com/kiip,https://dl.bintray.com/kiip/maven/,https://github.com/kiip
 ,,Kimia,kimia.mobi,Spain,,,,,,https://github.com/kimia
 ,Mobile Apps,Kinvey,progress.com,,com.kinvey.,,,,,
-,Mobile & Web Analytics,KissMetrics,kissmetricshq.com,,,,,,,
+ETIP,Mobile & Web Analytics,KissMetrics,kissmetricshq.com,,,,,,,
 ,,KissMyAds,affiliates.kissmyads.com,Germany,,,,,,
 ETIP,Marketing Analytics Performance & Attribution,Kochava,kochava.com,,com.kochava,,,,,
 ,DAM & MRM,Kodak,kodak.com,,com.kodak.kioskconnect.,,,,,https://github.com/kodak
@@ -599,7 +599,7 @@ ETIP,Mobile & Web Analytics,Matomo (Piwik),matomo.org,,org.piwik|org.piwik.mobil
 ,Mobile & Web Analytics,Mattersight Behavioral Analytics,mattersight.com,,,,,,,https://github.com/mattersight
 ,,Maudau,,,,,,,,
 ,,mBrands3,,,,,,,,
-,,MdotM (CrossChannel Inc),mdotm.com,USA,com.mdotm,,,,,https://github.com/mdotm
+ETIP,,MdotM (CrossChannel Inc),mdotm.com,USA,com.mdotm,,,,,https://github.com/mdotm
 ,Mobile Marketing,Meatti,meatti.com,,,,,,,https://github.com/meatti
 ,Mobile Marketing,Media Options,mediaoptions.com,,,,,,,https://github.com/mediaoptions
 ,,media.boingo,,,,,,,,
@@ -731,7 +731,7 @@ ETIP,,Omniture,omniture.com,,com.omniture.|com.adobe.adms.measurement,,,,,
 ETIP,Mobile Marketing,OneSignal,onesignal.com,,com.onesignal,,,,,
 ,Native/Content Advertising,OneSpot,onespot.com,,,,,,,https://github.com/onespot
 ,Governance Compliance and Privacy,OneTrust,onetrust.com,,,,,,,https://github.com/onetrust
-,Video Marketing,Ooyala,ooyala.com,,com.ooyala,,,https://bintray.com/ooyala,https://dl.bintray.com/ooyala/maven/,https://github.com/ooyala
+ETIP,Video Marketing,Ooyala,ooyala.com,,com.ooyala,,,https://bintray.com/ooyala,https://dl.bintray.com/ooyala/maven/,https://github.com/ooyala
 ,Mobile & Web Analytics,Open Web Analytics (OWA),openwebanalytics.com,,,,,,,
 ETIP,Mobile Apps,OpenBack,openback.com,,com.openback.android.sdk,,,,,
 ,Retail Proximity & IoT Marketing,Openbravo Commerce Suite,openbravo.com,,,,,,,https://github.com/openbravo
@@ -842,12 +842,12 @@ ETIP,Retail Proximity & IoT Marketing,Radius Networks,radiusnetworks.com,,com.ra
 ,Mobile & Web Analytics,Rapidminer,rapidminer.com,,,,,https://bintray.com/rapidminer,,https://github.com/rapidminer
 ,Mobile & Web Analytics,Reach Analytics,reachanalytics.com,,,,,,,https://github.com/reachanalytics
 ,Mobile & Web Analytics,RealEye,realeye.io,,,,,,,https://github.com/realeye
-,Mobile Marketing,Receptiv,receptiv.com,,,,,,,
+ETIP,Mobile Marketing,Receptiv,receptiv.com,,,,,,,
 ,Community & Reviews,Reevoo,reevoo.com,,,,,,,https://github.com/reevoo
 ,iPaaS Cloud/Data Integration & Tag Management,Relay42,relay42.com,,com.relay42.sdk,,,,,https://github.com/relay42
 ,Mobile Marketing,Remerge,remerge.io,,,,,,,https://github.com/remerge
 ,Mobile Marketing,Reporo,reporo.com,UK,,,,,,https://github.com/reporo
-,Mobile Marketing,Repro,repro.io,,io.repro.android.,,,https://bintray.com/repro,,https://github.com/repro
+ETIP,Mobile Marketing,Repro,repro.io,,io.repro.android.,,,https://bintray.com/repro,,https://github.com/repro
 ,iPaaS Cloud/Data Integration & Tag Management,Restlet,restlet.com,,org.restlet.,,,https://bintray.com/restlet,,https://github.com/restlet
 ,Retail Proximity & IoT Marketing,Retail Next,retailnext.net,,,,,,,https://github.com/retailnext
 ,Retail Proximity & IoT Marketing,Retailpro,retailpro.com,,,,,,,https://github.com/retailpro
@@ -878,7 +878,7 @@ ETIP,Mobile Marketing,S4M,s4m.io,,.s4m.,,,,,
 ,Mobile Marketing,Sabio Mobile,sabiomobile.com,,,,,,,https://github.com/sabiomobile
 ETIP,,Safe Graph,safegraph.com,,com.safegraph.|com.openlocate,,,,,
 ,Mobile & Web Analytics,SalesChoice,saleschoice.com,,,,,,,https://github.com/saleschoice
-,Mobile Apps,Salesforce,salesforce.com,,com.salesforce,,,https://bintray.com/salesforce,https://dl.bintray.com/salesforce/maven/,https://github.com/salesforce
+ETIP,Mobile Apps,Salesforce,salesforce.com,,com.salesforce,,,https://bintray.com/salesforce,https://dl.bintray.com/salesforce/maven/,https://github.com/salesforce
 ,Retail Proximity & IoT Marketing,SalesWarp,saleswarp.com,,,,,,,https://github.com/saleswarp
 ,Ecommerce Platforms & Carts,SAP Hybris,hybris.com,,com.hybris.mobile.,,,,,https://github.com/hybris
 ,Mobile Marketing,Sapho,sapho.com,,,,,,,https://github.com/sapho
@@ -1002,7 +1002,7 @@ ETIP,Mobile Marketing,TapJoy,tapjoy.com,USA,com.tapjoy,,,,,
 ETIP,Mobile Marketing,Taplytics,taplytics.com,,com.taplytics.sdk,,,,,
 ,Mobile Marketing,Tappx,tappx.com,,com.tappx.sdk,,,,,https://github.com/tappx
 ,,Tapsense,tapsense.com,,com.tapsense,,,,,https://github.com/tapsense
-,Mobile Apps,Tapstream,tapstream.com,,com.tapstream.sdk,,,https://bintray.com/tapstream,,https://github.com/tapstream
+ETIP,Mobile Apps,Tapstream,tapstream.com,,com.tapstream.sdk,,,https://bintray.com/tapstream,,https://github.com/tapstream
 ,,TapTap Networks,,,,,,https://bintray.com/TapTap,,https://github.com/TapTapNetworks
 ,Mobile Marketing,Taptica,taptica.com,USA,,,,,,
 ,,TargetCircle,,,,,,,,https://github.com/TargetCircle
@@ -1014,7 +1014,7 @@ ETIP,Customer Data Platform,Tealium,tealium.com,,.tealium,,,,,
 ETIP,Display & Programmatic Advertising,Teemo,teemo.co,,com.databerries.|com.geolocstation,,,,,
 ETIP,,TeleQuid,telequid.com,,com.telequid,,,,,
 ,Mobile & Web Analytics,TeleSign,telesign.com,,com.telesign.mobile.,,,,,https://github.com/telesign
-,,Tencent,tencent.com,,com.tencent,,,https://bintray.com/tencent,,https://github.com/tencent
+ETIP,,Tencent,tencent.com,,com.tencent,,,https://bintray.com/tencent,,https://github.com/tencent
 ETIP,,Tencent Map LBS,lbs.qq.com,,com.tencent.lbs,,,,,
 ETIP,,Tencent MobWin,tencent.com/en-us,,com.tencent.mobwin,,,,,
 ETIP,,Tencent MTA,mta.qq.com,,com.tencent.mta,,,,,
@@ -1072,7 +1072,7 @@ ETIP,,Uber Analytics,uber.com,,com.ubercab,,,,,
 ETIP,,Ultimedia,ultimedia.com,,,,,,,
 ETIP,,Umeng Analytics,umeng.com,,com.umeng.analytics,,,,,
 ETIP,,Umeng Feedback,dev.umeng.com,,com.umeng.fb,,,,,
-,Retail Proximity & IoT Marketing,Unacast,unacast.com,,,,,https://bintray.com/unacast,,https://github.com/unacast
+ETIP,Retail Proximity & IoT Marketing,Unacast,unacast.com,,,,,https://bintray.com/unacast,,https://github.com/unacast
 ,,Unicume,unicume.com,Russia,,,,,,
 ,Mobile & Web Analytics,Unify.me,unify.me,,,,,,,https://github.com/unify
 ETIP,Mobile Marketing,Unity,unity3d.com,,com.unity3d.services|com.unity3d.ads,unity3d\.com|unity\.com|applifier\.com|applifier\.info,,,,
@@ -1080,7 +1080,7 @@ ETIP,Mobile Marketing,Unity,unity3d.com,,com.unity3d.services|com.unity3d.ads,un
 ,,Unruly Media,unrulymedia.com,USA,,,,,,
 ,Mobile Marketing,Upland Software,uplandsoftware.com,,,,,,,https://github.com/uplandsoftware
 ,Retail Proximity & IoT Marketing,Upper Quandrant,upperquadrant.com,,,,,,,
-,Mobile & Web Analytics,Upsight,upsight.com,,com.upsight,,,,,https://github.com/upsight
+ETIP,Mobile & Web Analytics,Upsight,upsight.com,,com.upsight,,,,,https://github.com/upsight
 ,Mobile Marketing,Upstream,upstreamsystems.com,,,,,,,https://github.com/upstreamsystems
 ,Retail Proximity & IoT Marketing,Upstreamcommerce,upstreamcommerce.com,,,,,,,
 ETIP,Mobile Marketing,Urban Airship,urbanairship.com,,com.urbanairship,device-api.urbanairship.com|urbanairship.com,,,,
@@ -1091,7 +1091,7 @@ ETIP,Mobile Marketing,Urban Airship,urbanairship.com,,com.urbanairship,device-ap
 ,,UserMetrix,,,,,,,,
 ,Mobile & Web Analytics,UserReplay,userreplay.com,,,,,,,https://github.com/userreplay
 ,Customer Experience Service & Success,UserVoice,uservoice.com,,com.uservoice.uservoicesdk,,,,,https://github.com/uservoice
-,Mobile Apps,UXCam,uxcam.com,,com.uxcam.,,,,,https://github.com/uxcam
+ETIP,Mobile Apps,UXCam,uxcam.com,,com.uxcam.,,,,,https://github.com/uxcam
 ,Mobile Marketing,Valassis,valassis.com,,,,,,,https://github.com/valassis
 ,Retail Proximity & IoT Marketing,Valassis Digital,valassisdigital.com,,,,,,,
 ,Audience/Marketing Data & Data Enhancement,Validity,validity.com,,com.validity.fingerprint.,,,,,https://github.com/validity
@@ -1126,7 +1126,7 @@ ETIP,,WalkMe/Abbi.io,walkme.com,,,,,,,
 ,,Webmoblink,webmoblink.com,Latin America,,,,,,
 ETIP,Display & Programmatic Advertising,Weborama,weborama.com,France,com.weborama,,,,,
 ,Mobile & Web Analytics,Websays,websays.com,,,,,,,https://github.com/websays
-,Business/Customer Intelligence & Data Science,Webtrekk,webtrekk.com,,com.webtrekk,,,https://bintray.com/webtrekk,https://dl.bintray.com/webtrekk/maven/,https://github.com/webtrekk
+ETIP,Business/Customer Intelligence & Data Science,Webtrekk,webtrekk.com,,com.webtrekk,,,https://bintray.com/webtrekk,https://dl.bintray.com/webtrekk/maven/,https://github.com/webtrekk
 ETIP,Mobile & Web Analytics,Webtrends,webtrends.com,,com.webtrends.mobile.analytics.|com.webtrends.mobile.android,,,,,
 ETIP,,WeChat Location,wechat.com,,com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google,map\.qq\.com,,,,
 ,Mobile & Web Analytics,Weelytics,weelytics.com,,,,,,,
@@ -1135,7 +1135,7 @@ ETIP,Mobile Marketing,Widespace,widespace.com,Sweden,com.widespace.,,,,,
 ,,Wildfire Analytics,,,,,,,,
 ,Ecommerce Marketing,Wix,wix.com,,com.wix.,,,https://bintray.com/wix,,https://github.com/wix
 ,Mobile Marketing,WompMobile,wompmobile.com,,,,,,,https://github.com/wompmobile
-,Mobile Marketing,WonderPush,wonderpush.com,,com.wonderpush.sdk,,,https://bintray.com/wonderpush,https://dl.bintray.com/wonderpush/maven/,https://github.com/wonderpush
+ETIP,Mobile Marketing,WonderPush,wonderpush.com,,com.wonderpush.sdk,,,https://bintray.com/wonderpush,https://dl.bintray.com/wonderpush/maven/,https://github.com/wonderpush
 ,DAM & MRM,Woodwing Software,woodwing.com,,com.woodwing.,,,,,https://github.com/woodwing
 ,Mobile & Web Analytics,Woopra,woopra.com,,,,,,,https://github.com/woopra
 ETIP,,Wootric,wootric.com,,com.wootric.androidsdk.,wootric.com|.wootric.com.herokudns.com,,,,
