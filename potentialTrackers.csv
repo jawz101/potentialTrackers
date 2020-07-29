@@ -1,5 +1,4 @@
 inETIP,subcategory,company,website,country,code_sig,network_sig,documentation,potential maven page,potential maven repo,potential github
-,,24/7 real media,,,,,,,,
 ETIP,Mobile Marketing,360Dialog,360dialog.com,,,,https://developers.360dialog.io/mobile/android/sdk_setup.html?android,,,
 ETIP,Mobile Marketing,Aarki,aarki.com,USA,com.aarki,,,,,
 ETIP,,ABTasty,abtasty.com,,com.abtasty,abtasty\.com,,,,
@@ -8,21 +7,15 @@ ETIP,,AccountKit,accountkit.com,,com.facebook.accountkit,,,,,
 ETIP,,Actv8,actv8me.com,,me.actv8,actv8technologies.com,,,,
 ETIP,,Acuant,acuantcorp.com,,,,,https://bintray.com/acuant,,
 ETIP,,Ad4Game,ad4game.com,Canada,,,http://developer.ad4game.com/index.php/Android,,,
-,Mobile Marketing,AdAction Interactive,adaction.mobi,,,,x,,,https://github.com/adaction
-,ad,AdAd,adad.ir,Teheran,,,,,,
 ETIP,Mobile Marketing,AdAdapted,adadapted.com,,,,https://dev.adadapted.com,,,
 ETIP,,adboost,adboost.sk,,.com.ew.sdk.adboost,,,,,
 ETIP,,Adbrix,ad-brix.com,,com.igaworks,,,,,
 ETIP,Mobile Marketing,AdBuddiz,publishers.adbuddiz.com,,,,,,,
 ETIP,,AdCash,adcash.com,Estonia,,,,,,
 ETIP,Mobile Marketing,Adcenix,adcenix.com,,com.adcenix.,,,,,
-,,Adcito Media,adcitomedia.com,USA,,,,,,
 ETIP,Mobile Marketing,AdColony (Jirbo),jirbo.com|adcolony.com,USA,com.jirbo|com.adcolony,adcolony.com,,,,
 ETIP,,Add Apt Tr,addapptr.com,,com.intentsoftware.addapptr,,,,,
-,,adDash,,,,,,,,https://github.com/adDash
-,,AdDuplex,,,,,,,,https://github.com/AdDuplex
-,Mobile Marketing,Adelphic,adelphic.com,USA,,,,,,
-,DMP,Adex,theadex.com,,,,,,,
+NaN,DMP,Adex,theadex.com,,,,,,,https://github.com/AdExNetwork
 ,Mobile Marketing,AdFalcon by Noqoush,adfalcon.com,UAE,,,,,,https://github.com/adfalcon
 ETIP,,AdFit (Daum),daum.net,,com.kakao.adfit.ads,,,,,
 ETIP,,Adflake,made-apps.com,,com.adflake,,,,,
@@ -380,7 +373,7 @@ ETIP,,Facebook Notifications,developers.facebook.com/docs/android,,com.facebook.
 ETIP,,Facebook Places,developers.facebook.com/docs/android,,com.facebook.places,\.facebook\.com,,,,
 ETIP,,Facebook Share,developers.facebook.com/docs/android,,com.facebook.share,\.facebook\.com,,,,
 ,social,Facebook,github.com/facebook/facebook-android-sdk,,com.facebook,,,,,
-,Mobile Marketing,Factual,factual.com,,com.factual.,,,https://bintray.com/factual,https://dl.bintray.com/factual/maven/,https://github.com/factual
+ETIP,Mobile Marketing,Factual,factual.com,,com.factual.,,,https://bintray.com/factual,https://dl.bintray.com/factual/maven/,https://github.com/factual
 ,,Feelingtouch,,,,,,,,
 ,,FGL,fgl.com,,com.fgl,,,,,https://github.com/fgl
 ,Mobile & Web Analytics,FICO,fico.com,,,,,,,https://github.com/fico
@@ -398,7 +391,7 @@ ETIP,Mobile Marketing,FollowAnalytics,followanalytics.com,,com.followanalytics.|
 ETIP,Customer Experience Service & Success,Foresee,foresee.com,,com.foresee.sdk.foresee,,,,,
 ,Mobile & Web Analytics,Formisimo,formisimo.com,,,,,,,https://github.com/formisimo
 ,,Fortumo,,,,,,,,https://github.com/Fortumo
-,Mobile Marketing,Foursquare,foursquare.com,,com.foursquare.pilgrimsdk,,,,,https://github.com/foursquare
+ETIP,Mobile Marketing,Foursquare,foursquare.com,,com.foursquare.pilgrimsdk,,,,,https://github.com/foursquare
 ,Mobile & Web Analytics,FoxMetrics,foxmetrics.com,,,,,,,https://github.com/foxmetrics
 ,,Fractional Media,fractionalmedia.com,USA,com.fractionalmedia.sdk,,,,,https://github.com/fractionalmedia
 ,,Freapp,freapp.com,Italy,,,,,,
@@ -448,7 +441,7 @@ ETIP,Retail Proximity & IoT Marketing,GPShopper,gpshopper.com,,com.gpshopper,,,,
 ,,GREE Ads,ads.gree.net,USA,net.gree,,,,,
 ,Retail Proximity & IoT Marketing,Grey Jean Technologies,gjny.com,,,,,,,https://github.com/gjny
 ,,Greystripe (Conversant Media Inc.),greystripe.com,USA,com.greystripe,,,,,
-,Mobile Marketing,GroundTruth,groundtruth.com,,,,,https://bintray.com/groundtruth,,https://github.com/groundtruth
+ETIP,Mobile Marketing,GroundTruth,groundtruth.com,,,,,https://bintray.com/groundtruth,,https://github.com/groundtruth
 ,,GrowMobile,growmobile.com,USA,com.growmobile,,,,,https://github.com/growmobile
 ,Mobile & Web Analytics,Growth Intelligence,growthintelligence.com,,,,,,,
 ,Mobile Marketing,GrowthPush,growthpush.com,,,,,,,
@@ -533,7 +526,7 @@ ETIP,Video Advertising,JW Player,jwplayer.com,,com.longtailvideo.jwplayer,,,,,
 ,Mobile Marketing,Kargo,kargo.com,USA,,,,,,https://github.com/kargo
 ETIP,Mobile & Web Analytics,Keen IO,keen.io,,io.keen.client.,api.keen.io,,,,
 ETIP,,kidoz,kidoz.net/kidoz-sdk,,com.kidoz.sdk,,,,,
-,Mobile Marketing,Kiip,kiip.me,,me.kiip.sdk,,,https://bintray.com/kiip,https://dl.bintray.com/kiip/maven/,https://github.com/kiip
+ETIP,Mobile Marketing,Kiip,kiip.me,,me.kiip.sdk,,,https://bintray.com/kiip,https://dl.bintray.com/kiip/maven/,https://github.com/kiip
 ,,Kimia,kimia.mobi,Spain,,,,,,https://github.com/kimia
 ,Mobile Apps,Kinvey,progress.com,,com.kinvey.,,,,,
 ETIP,Mobile & Web Analytics,KissMetrics,kissmetricshq.com,,,,,,,
@@ -732,7 +725,7 @@ ETIP,Mobile & Web Analytics,New Relic,newrelic.com,,com.newrelic,,,,,
 ETIP,,Nexage,nexage.com,USA,com.nexage,,,,,
 ,Display & Programmatic Advertising,Nielsen,nielsen.com,,com.nielsen.app.sdk,,,,,https://github.com/nielsen
 ,Mobile & Web Analytics,NinjaCat,ninjacat.io,,,,,,,https://github.com/ninjacat
-,Mobile Marketing,NinthDecimal,ninthdecimal.com,,,,,,,https://github.com/ninthdecimal
+ETIP,Mobile Marketing,NinthDecimal,ninthdecimal.com,,,,,,,https://github.com/ninthdecimal
 ,,Noqoush,noqoush.com,UAE,,,,,,https://github.com/noqoush
 ,,Norc Media,norcmedia.com,UK,,,,,,
 ,Mobile Marketing,Notificare,notificare.com,,,,,,,https://github.com/notificare
@@ -802,7 +795,7 @@ ETIP,Search & Social Advertising,Pinterest,pinterest.com,USA,com.pinterest.andro
 ,Retail Proximity & IoT Marketing,Placebag,placebag.com,,,,,,,
 ETIP,,Placed,placed.com,,com.placed.client,,,,,
 ETIP,Mobile Marketing,PlaceGuru,placer.io,,com.placer.,,,,,
-,Mobile & Web Analytics,PlaceIQ,placeiq.com,,,,,,,https://github.com/placeiq
+old,Mobile & Web Analytics,PlaceIQ,placeiq.com,,,,,,,https://github.com/placeiq
 ,,PlacePlay,placeplay.com,USA,,,,,,
 ,,Platform Play,platform-play.com,India,,,,,,
 ,,Playerize,playerize.com,USA,,,,,,https://github.com/playerize
