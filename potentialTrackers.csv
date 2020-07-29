@@ -456,11 +456,7 @@ ETIP,Retail Proximity & IoT Marketing,GPShopper,gpshopper.com,,com.gpshopper,,,,
 ,Mobile Marketing,GupShup,gupshup.io,,,,,,,https://github.com/gupshup
 ,,Hands,hands.com.br,Brazil,,,,,,https://github.com/hands
 ,Mobile & Web Analytics,HarePoint,harepoint.com,,,,,,,
-,Mobile & Web Analytics,Heap Inc,heapanalytics.com,,,,,,,
-,dev,HeapAnalytics,docs.heapanalytics.com/docs/installation,,com.heapanalytics,,,,,
-,,Heatma.ps,,,,,,,,
-,Mobile & Web Analytics,Heatmap,heatmap.com,,,,,,,https://github.com/heatmap
-,Mobile & Web Analytics,HeatMapCo,heat-map.co,,,,,,,
+ETIP,Mobile & Web Analytics,HeapAnalytics,docs.heapanalytics.com/docs/installation,,com.heapanalytics,,,,,
 ,Mobile Marketing,HelloWorld,helloworld.com,,,,,https://bintray.com/helloworld,,https://github.com/helloworld
 ETIP,Customer Experience Service & Success,Helpshift,helpshift.com,,com.helpshift,,,,,
 ,Mobile Marketing,HeyStaks,heystaks.com,,,,,,,https://github.com/heystaks
